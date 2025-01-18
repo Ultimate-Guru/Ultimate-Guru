@@ -10,7 +10,6 @@ I've been learning how to code for some years now and I am good at it now. Mostl
 * ✉️  You can contact me at [tosindaniel360@gmail.com](mailto:tosindaniel360@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting projects and open to work
-* ⚡  I am a bond servant of Christ, an ambassador for Christ
 
 ### Skills
 
