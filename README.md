@@ -8,7 +8,6 @@ I've been learning how to code for some years now and I am good at it now. Mostl
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [tosindaniel360@gmail.com](mailto:tosindaniel360@gmail.com)
-* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting projects and open to work
 
 ### Skills
