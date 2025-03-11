@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer 
 --------------------------
 
-I've been learning how to code for some years now and I am good at it now. Mostly at frontend web development and now am venturing into backend development and it seem to be interesting... Meet you at the top.
+Minimalistic frontend web developer passionate about aesthetically pleasing design and collaborative product improvement.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [tosindaniel360@gmail.com](mailto:tosindaniel360@gmail.com)
