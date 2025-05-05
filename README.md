@@ -6,7 +6,7 @@ Web Developer
 
 Minimalistic frontend web developer passionate about aesthetically pleasing design and collaborative product improvement.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos,Nigeria
 * ✉️  You can contact me at [tosindaniel360@gmail.com](mailto:tosindaniel360@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects and open to work
 
